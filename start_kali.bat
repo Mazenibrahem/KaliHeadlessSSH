@@ -1,0 +1,3 @@
+@echo off
+echo Starting Kali Linux in headless mode...
+"C:\Program Files\Oracle\VirtualBox\VBoxHeadless.exe" --startvm "kali-linux-2022.4-virtualbox-amd64"
