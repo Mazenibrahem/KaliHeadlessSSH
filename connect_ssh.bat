@@ -1,3 +1,3 @@
 @echo off
 echo Connecting to Kali via SSH...
-ssh kali@192.168.0.102
+ssh kali@YOUR_KALI_IP
